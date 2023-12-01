@@ -1,0 +1,22 @@
+.user-Details {
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  border: 2px solid black;
+  margin: auto; 
+  max-width: 600px;
+  padding: 20px; 
+}
+.user-Details p {
+    font-size: 20px;
+    font-weight: 500;
+}
+
+#otpless-login-page {
+    display: block;
+  }
+
+  #userData {
+    display: none;
+  }
